@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "iOS-StyledPageControl"
+  s.name         = "StyledPageControl"
   s.version      = "1.0"
   s.summary      = "Customizable PageControl for iOS"
   s.homepage     = "http://honcheng.com"
